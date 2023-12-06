@@ -26,3 +26,7 @@ There are 5 files and 1 folder.
 ## 🛠 Skills
 Python, Web scrapping, Selenium, OOPS, Numpy, Pandas, DuckDB
 
+## Viewing in DuckDB
+![delegates_duckdb](https://github.com/sahilkadu96/CMS-Assignment/assets/106151994/c87c38df-b6ae-474f-b949-6487000f269e)
+
+
